@@ -1,0 +1,26 @@
+body{
+	background-color: rgb(255, 255, 224);
+}
+
+h1{
+	font-family: 'times new roman', palatino linotype, athena, tahoma;
+    font-size: 12pt;
+    color: rgb(204,0,0);
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.toleon {
+	text-transform: uppercase;
+}
+
+.paragraf{
+	color: rgb(204,0,0);
+	text-align: center;
+	font-weight: bold;
+}
+
+.dialogs{
+	font-style: italic;
+}
